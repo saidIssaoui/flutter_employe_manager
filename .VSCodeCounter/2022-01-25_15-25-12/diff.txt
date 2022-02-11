@@ -1,0 +1,168 @@
+Date : 2022-01-25 15:25:12
+Directory : c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib
+Total : 112 files,  8307 codes, 473 comments, 750 blanks, all 9530 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |        112 |      8,307 |        473 |        750 |      9,530 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                           | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                              |        112 |      8,307 |        473 |        750 |      9,530 |
+| Map                                                                                                            |          1 |         46 |          0 |          9 |         55 |
+| UserInterface                                                                                                  |          3 |        273 |          1 |         16 |        290 |
+| UserInterface\components                                                                                       |          2 |        152 |          0 |         11 |        163 |
+| components                                                                                                     |         31 |      1,391 |         74 |        162 |      1,627 |
+| config                                                                                                         |          2 |         20 |          1 |          6 |         27 |
+| data                                                                                                           |          1 |          1 |          0 |          1 |          2 |
+| flutter-icons                                                                                                  |         11 |         87 |        190 |         44 |        321 |
+| models                                                                                                         |          7 |        272 |         21 |         34 |        327 |
+| screens                                                                                                        |         43 |      5,425 |        131 |        397 |      5,953 |
+| screens\Addtask                                                                                                |          5 |      1,466 |         38 |         85 |      1,589 |
+| screens\EmployeList                                                                                            |          6 |      1,110 |         13 |         50 |      1,173 |
+| screens\EmployeList\components                                                                                 |          5 |        906 |         12 |         42 |        960 |
+| screens\Home                                                                                                   |          6 |        612 |         13 |         46 |        671 |
+| screens\Home\components                                                                                        |          1 |        176 |          0 |          5 |        181 |
+| screens\Home\skeleton                                                                                          |          3 |        129 |          0 |         21 |        150 |
+| screens\Login                                                                                                  |          3 |        168 |          2 |         17 |        187 |
+| screens\Login\components                                                                                       |          2 |        157 |          2 |         14 |        173 |
+| screens\Messages                                                                                               |          8 |        388 |          0 |         37 |        425 |
+| screens\Messages\components                                                                                    |          6 |        317 |          0 |         28 |        345 |
+| screens\Navbar                                                                                                 |          2 |        133 |          0 |         12 |        145 |
+| screens\NewUser                                                                                                |          3 |        949 |         40 |         78 |      1,067 |
+| screens\NewUser\components                                                                                     |          1 |         81 |          1 |          5 |         87 |
+| screens\Notification                                                                                           |          1 |         20 |          0 |          4 |         24 |
+| screens\Position                                                                                               |          1 |         36 |          5 |          7 |         48 |
+| screens\Settinges                                                                                              |          1 |         42 |          0 |          5 |         47 |
+| screens\chats                                                                                                  |          3 |        125 |          0 |         13 |        138 |
+| screens\chats\components                                                                                       |          2 |        110 |          0 |          9 |        119 |
+| screens\profile                                                                                                |          4 |        376 |         20 |         43 |        439 |
+| services                                                                                                       |          2 |        273 |         15 |         22 |        310 |
+| src                                                                                                            |          2 |        142 |          6 |         28 |        176 |
+| stats                                                                                                          |          1 |         91 |         16 |          6 |        113 |
+| widgets                                                                                                        |          4 |        203 |          0 |         11 |        214 |
++----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                       | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\Map\map.dart                                           | Dart     |         46 |          0 |          9 |         55 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\UserInterface\catalog.dart                             | Dart     |        121 |          1 |          5 |        127 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\UserInterface\components\catalog_card.dart             | Dart     |         71 |          0 |          6 |         77 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\UserInterface\components\catalog_card_green.dart       | Dart     |         81 |          0 |          5 |         86 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\drop_down_field.dart                        | Dart     |         47 |         56 |          9 |        112 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\filled_outline_button.dart                  | Dart     |         32 |          0 |          5 |         37 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\primary_button.dart                         | Dart     |         31 |          0 |          5 |         36 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_button.dart                         | Dart     |         42 |          2 |          5 |         49 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_button_add.dart                     | Dart     |         39 |          0 |          4 |         43 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_button_add_comment.dart             | Dart     |         39 |          3 |          5 |         47 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_button_delete.dart                  | Dart     |         39 |          3 |          5 |         47 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_button_disable.dart                 | Dart     |         39 |          3 |          5 |         47 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_button_enable.dart                  | Dart     |         39 |          3 |          5 |         47 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_image_field.dart                    | Dart     |         54 |          1 |          6 |         61 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_image_field_update.dart             | Dart     |         55 |          1 |          6 |         62 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_input_client_field.dart             | Dart     |         23 |          0 |          3 |         26 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_input_date_period_picker.dart       | Dart     |         69 |          1 |          6 |         76 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_input_date_picker.dart              | Dart     |         84 |          1 |          7 |         92 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_input_field.dart                    | Dart     |         31 |          0 |          3 |         34 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_input_name_edit_field.dart          | Dart     |         35 |          0 |          4 |         39 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_input_name_field.dart               | Dart     |         30 |          0 |          4 |         34 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_input_type_field.dart               | Dart     |         24 |          0 |          3 |         27 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_mail_input.dart                     | Dart     |         68 |          0 |          5 |         73 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_mail_update_field.dart              | Dart     |         72 |          0 |          4 |         76 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_password_field.dart                 | Dart     |         49 |          0 |          6 |         55 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_search_field.dart                   | Dart     |         30 |          0 |          3 |         33 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_select_field.dart                   | Dart     |        224 |          0 |         30 |        254 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\rounded_show_field.dart                     | Dart     |         29 |          0 |          3 |         32 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\text_field_add_emp_container.dart           | Dart     |         22 |          0 |          3 |         25 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\text_field_add_image.dart                   | Dart     |         23 |          0 |          3 |         26 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\text_field_add_user.dart                    | Dart     |         23 |          0 |          3 |         26 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\text_field_container.dart                   | Dart     |         26 |          0 |          3 |         29 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\text_field_duration.dart                    | Dart     |         22 |          0 |          3 |         25 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\text_field_name_container.dart              | Dart     |         24 |          0 |          3 |         27 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\components\text_field_show_container.dart              | Dart     |         27 |          0 |          3 |         30 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\config\palette.dart                                    | Dart     |          4 |          1 |          2 |          7 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\config\styles.dart                                     | Dart     |         16 |          0 |          4 |         20 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\constants.dart                                         | Dart     |         10 |          0 |          4 |         14 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\data\data.dart                                         | Dart     |          1 |          0 |          1 |          2 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\firebase_options.dart                                  | Dart     |         49 |         13 |          6 |         68 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\flutter-icons\cancel_circled.dart                      | Dart     |          8 |          0 |          4 |         12 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\flutter-icons\check_circle.dart                        | Dart     |          7 |         19 |          4 |         30 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\flutter-icons\dot.dart                                 | Dart     |          8 |         19 |          4 |         31 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\flutter-icons\info.dart                                | Dart     |          8 |         19 |          4 |         31 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\flutter-icons\minus_circled.dart                       | Dart     |          8 |         19 |          4 |         31 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\flutter-icons\more.dart                                | Dart     |          8 |         19 |          4 |         31 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\flutter-icons\pencil_circeled.dart                     | Dart     |          8 |         19 |          4 |         31 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\flutter-icons\plus.dart                                | Dart     |          8 |         19 |          4 |         31 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\flutter-icons\plus_date.dart                           | Dart     |          8 |         19 |          4 |         31 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\flutter-icons\plus_slim.dart                           | Dart     |          8 |         19 |          4 |         31 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\flutter-icons\plus_slim_2.dart                         | Dart     |          8 |         19 |          4 |         31 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\main.dart                                              | Dart     |         24 |          4 |          4 |         32 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\main.reflectable.dart                                  | Dart     |          0 |          1 |          0 |          1 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\models\Chat.dart                                       | Dart     |         69 |          0 |          3 |         72 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\models\ChatMessage.dart                                | Dart     |         58 |          0 |          4 |         62 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\models\catalog.dart                                    | Dart     |         50 |          0 |          3 |         53 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\models\employees.dart                                  | Dart     |         14 |         17 |          5 |         36 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\models\sheck_Satutus.dart                              | Dart     |         11 |          0 |          3 |         14 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\models\task_model.dart                                 | Dart     |         36 |          0 |          5 |         41 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\models\user_model.dart                                 | Dart     |         34 |          4 |         11 |         49 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Addtask\add_task.dart                          | Dart     |        640 |         18 |         44 |        702 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Addtask\dialog_coment.dart                     | Dart     |        106 |          1 |          3 |        110 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Addtask\dialog_coment_sent.dart                | Dart     |        107 |          0 |          3 |        110 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Addtask\dialogbar.dart                         | Dart     |         62 |          0 |          3 |         65 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Addtask\task.dart                              | Dart     |        551 |         19 |         32 |        602 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\EmployeList\components\dialog_delete.dart      | Dart     |        144 |          1 |          9 |        154 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\EmployeList\components\dialog_disable.dart     | Dart     |        147 |          1 |          7 |        155 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\EmployeList\components\dialog_enable.dart      | Dart     |        147 |          1 |          7 |        155 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\EmployeList\components\edit_employee_card.dart | Dart     |        320 |          7 |          9 |        336 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\EmployeList\components\employee_card.dart      | Dart     |        148 |          2 |         10 |        160 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\EmployeList\employelist.dart                   | Dart     |        204 |          1 |          8 |        213 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Home\components\home_card.dart                 | Dart     |        176 |          0 |          5 |        181 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Home\home.dart                                 | Dart     |        261 |         10 |         11 |        282 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Home\skeleton\constants.dart                   | Dart     |          4 |          0 |          3 |          7 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Home\skeleton\skeleton.dart                    | Dart     |         59 |          0 |          9 |         68 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Home\skeleton\skeleton_edit_emp.dart           | Dart     |         66 |          0 |          9 |         75 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Home\wrapper.dart                              | Dart     |         46 |          3 |          9 |         58 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Login\components\background.dart               | Dart     |         23 |          0 |          3 |         26 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Login\components\body.dart                     | Dart     |        134 |          2 |         11 |        147 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Login\login_screen.dart                        | Dart     |         11 |          0 |          3 |         14 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Messages\components\audio_message.dart         | Dart     |         64 |          0 |          4 |         68 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Messages\components\body.dart                  | Dart     |         25 |          0 |          3 |         28 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Messages\components\chat_input_field.dart      | Dart     |         83 |          0 |          4 |         87 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Messages\components\message.dart               | Dart     |         79 |          0 |          9 |         88 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Messages\components\text_message.dart          | Dart     |         31 |          0 |          5 |         36 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Messages\components\video_message.dart         | Dart     |         35 |          0 |          3 |         38 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Messages\message_screen.dart                   | Dart     |         51 |          0 |          5 |         56 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Messages\messages.dart                         | Dart     |         20 |          0 |          4 |         24 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Navbar\bottom_nav_bar.dart                     | Dart     |         76 |          0 |          6 |         82 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Navbar\bottom_nav_bar_emp.dart                 | Dart     |         57 |          0 |          6 |         63 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\NewUser\components\dialog_progress_circle.dart | Dart     |         81 |          1 |          5 |         87 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\NewUser\new_user.dart                          | Dart     |        439 |         10 |         33 |        482 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\NewUser\update_user.dart                       | Dart     |        429 |         29 |         40 |        498 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Notification\notification.dart                 | Dart     |         20 |          0 |          4 |         24 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Position\position.dart                         | Dart     |         36 |          5 |          7 |         48 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\Settinges\settings.dart                        | Dart     |         42 |          0 |          5 |         47 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\chats\chats_screen.dart                        | Dart     |         15 |          0 |          4 |         19 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\chats\components\body.dart                     | Dart     |         31 |          0 |          4 |         35 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\chats\components\chat_card.dart                | Dart     |         79 |          0 |          5 |         84 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\profile\hero_dialog_route.dart                 | Dart     |         33 |          0 |         12 |         45 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\profile\models.dart                            | Dart     |         21 |         10 |          9 |         40 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\profile\profile.dart                           | Dart     |        315 |          5 |         17 |        337 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\screens\profile\styles.dart                            | Dart     |          7 |          5 |          5 |         17 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\services\auth.dart                                     | Dart     |        194 |         13 |         17 |        224 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\services\database.dart                                 | Dart     |         79 |          2 |          5 |         86 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\src\locations.dart                                     | Dart     |         81 |          2 |         17 |        100 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\src\locations.g.dart                                   | Dart     |         61 |          4 |         11 |         76 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\stats\stats_screen.dart                                | Dart     |         91 |         16 |          6 |        113 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\widgets\custom_app_bar.dart                            | Dart     |         22 |          0 |          3 |         25 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\widgets\stats_grid.dart                                | Dart     |         64 |          0 |          3 |         67 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\widgets\tasks_bar_chart.dart                           | Dart     |        114 |          0 |          4 |        118 |
+| c:\Users\saidi\OneDrive\Desktop\promoted\mobile_app\lib\widgets\widgets.dart                                   | Dart     |          3 |          0 |          1 |          4 |
+| Total                                                                                                          |          |      8,307 |        473 |        750 |      9,530 |
++----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
