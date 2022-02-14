@@ -98,7 +98,7 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   https://docs.flutter.dev/get-started/install
   ```
-* NodeJs backend
+* Firebase/NodeJs backend
   ```https
   https://github.com/saidIssaoui/api_promoted.git
   ```  
