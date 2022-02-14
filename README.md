@@ -198,7 +198,7 @@ Project Link: [https://github.com/saidIssaoui/flutter_employe_manager](https://g
 [issues-url]: https://github.com/saidIssaoui/flutter_employe_manager/issues
 [license-shield]: https://img.shields.io/github/license/saidIssaoui/flutter_employe_manager.svg
 [license-url]: https://github.com/saidIssaoui/flutter_employe_manager/blob/main/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg
 [linkedin-url]: https://www.linkedin.com/in/said-issaoui-55095315b/
 [product-screenshot]: images/add_task.gif
 [product-screenshot-2]: images/manage_employee.gif
