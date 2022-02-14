@@ -188,17 +188,17 @@ Project Link: [https://github.com/saidIssaoui/flutter_employe_manager](https://g
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/saidIssaoui/flutter_employe_manager.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/saidIssaoui/flutter_employe_manager.svg
 [contributors-url]: https://github.com/saidIssaoui/flutter_employe_manager/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/saidIssaoui/flutter_employe_manager.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/saidIssaoui/flutter_employe_manager.svg
 [forks-url]: https://github.com/saidIssaoui/flutter_employe_manager/network/members
-[stars-shield]: https://img.shields.io/github/stars/saidIssaoui/flutter_employe_manager.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/saidIssaoui/flutter_employe_manager.svg
 [stars-url]: https://github.com/saidIssaoui/flutter_employe_manager/stargazers
-[issues-shield]: https://img.shields.io/github/issues/saidIssaoui/flutter_employe_manager.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/saidIssaoui/flutter_employe_manager.svg
 [issues-url]: https://github.com/saidIssaoui/flutter_employe_manager/issues
 [license-shield]: https://img.shields.io/github/license/saidIssaoui/flutter_employe_manager.svg
 [license-url]: https://github.com/saidIssaoui/flutter_employe_manager/blob/main/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/said-issaoui-55095315b/
 [product-screenshot]: images/add_task.gif
 [product-screenshot-2]: images/manage_employee.gif
