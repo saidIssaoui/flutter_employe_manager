@@ -65,7 +65,13 @@
 [![Product Name Screen Shot][product-screenshot]]()
 [![Product Name Screen Shot 2][product-screenshot-2]]()
 
+There are many great applications to manage and track your employees available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a flutter application so amazing that it'll be the last one you ever need -- I think this is it.
 
+Here's why:
+* Your time should be focused on excuting the task. The application will give you location and guide you through your task.
+* You shouldn't be afraid from the employee behaviour because the application will track all.
+
+Of course, no one application will serve all needs since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -134,7 +140,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This app help you to track your employee work progress and assure that he/she is working from the right place.
+This app help you to track your employee work progress and assure that he/she is working from the right place and at the right time.
 
 _For more examples, please refer to the [Documentation](https://github.com/saidIssaoui/flutter_employe_manager/blob/main/README.md)_
 
