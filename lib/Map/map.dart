@@ -25,7 +25,7 @@ class MapViewState extends State<MapView> {
   Set<Polyline> _polylines = Set<Polyline>();
   List<LatLng> polylineCoordinates = [];
   late PolylinePoints polylinePoints;
-  String googleAPIKey = 'AIzaSyB_9UXGPuhnsaA5_-3Av2cxdSrpB0R8hXI';
+  String googleAPIKey = 'Your_Api';
 // for my custom marker pins
   late BitmapDescriptor sourceIcon;
   late BitmapDescriptor destinationIcon;

@@ -684,7 +684,7 @@ class _AddTaskState extends State<AddTask> {
     });
     LocationResult result = await Navigator.of(context).push(MaterialPageRoute(
         builder: (context) => PlacePicker(
-              "AIzaSyB_9UXGPuhnsaA5_-3Av2cxdSrpB0R8hXI",
+              "Your_Api",
               displayLocation: LatLng(laltitude, longitude),
             )));
 
