@@ -93,8 +93,8 @@ This is an example of how to list things you need to use the software and how to
   https://docs.flutter.dev/get-started/install
   ```
 * NodeJs backend
-  ```sh
-  git clone https://github.com/saidIssaoui/api_promoted.git
+  ```https
+  https://github.com/saidIssaoui/api_promoted.git
   ```  
 ### Installation
 
