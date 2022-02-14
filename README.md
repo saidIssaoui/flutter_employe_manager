@@ -4,7 +4,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![BSD License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -65,7 +65,7 @@
 [![Product Name Screen Shot][product-screenshot]]()
 [![Product Name Screen Shot 2][product-screenshot-2]]()
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,6 +92,10 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   https://docs.flutter.dev/get-started/install
   ```
+* NodeJs backend
+  ```sh
+  git clone https://github.com/saidIssaoui/api_promoted.git
+  ```  
 ### Installation
 
 1. Get a free API Key at [cloud console](https://console.cloud.google.com/apis/credentials)
@@ -130,9 +134,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This app help you to track your employee work progress and assure that he/she is working from the right place.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/saidIssaoui/flutter_employe_manager/blob/main/README.md)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -159,7 +163,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the BSD 3-Clause License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -179,9 +183,8 @@ Project Link: [https://github.com/saidIssaoui/flutter_employe_manager](https://g
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [abuanwar072](https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme)
+* [MarcusNg](https://github.com/MarcusNg/flutter_covid_dashboard_ui)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
