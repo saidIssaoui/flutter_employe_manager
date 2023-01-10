@@ -65,7 +65,17 @@
 [![Product Name Screen Shot][product-screenshot]]()
 [![Product Name Screen Shot 2][product-screenshot-2]]()
 
-There are many great applications to manage and track your employees available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a flutter application so amazing that it'll be the last one you ever need -- I think this is it.
+The application is a mobile application developed using Flutter and Dart. This application is designed to allow users to track their employees' tasks and locations in real-time. The app allows managers to add, update and delete employee records, and view a list of employees, their tasks and their locations on a map.
+
+The application utilizes the Flutter framework, which provides a rich set of customizable widgets, and allows for fast development and a smooth user experience. The app also makes use of the Dart programming language, which is optimized for high performance, and allows for efficient and secure code execution.
+
+One of the key features of the application is the real-time location tracking. The app uses the GPS functionality of the device to track the location of employees, and updates this information in real-time. This allows managers to see where their employees are, and ensure that they are on track to complete their tasks.
+
+The application also has an intuitive user interface that makes it easy for managers to add, update and delete employee records, and view the status of their tasks.
+
+In addition, the application has robust security features that keep employee data safe and secure. The app uses industry-standard encryption algorithms to protect employee data, and ensures that sensitive information is not compromised.
+
+Overall, the "flutter_employe_manager" application is a powerful tool for managers who want to keep track of their employees and manage their tasks efficiently. It is designed to be user-friendly, secure, and to provide real-time location tracking which allows managers to make better decisions and ensures that their employees are on track to complete their tasks.
 
 Here's why:
 * Your time should be focused on excuting the task. The application will give you location and guide you through your task.
