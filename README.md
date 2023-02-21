@@ -77,7 +77,7 @@ In addition, the application has robust security features that keep employee dat
 
 Overall, the "flutter_employe_manager" application is a powerful tool for managers who want to keep track of their employees and manage their tasks efficiently. It is designed to be user-friendly, secure, and to provide real-time location tracking which allows managers to make better decisions and ensures that their employees are on track to complete their tasks.
 
-There are many great applications to manage and track your employees available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a flutter application so amazing that it'll be the last one you ever need -- I think this is it.
+There are many great applications to manage and track your employees available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a flutter application so amazing that it'll be the last one you ever need .
 
 Here's why:
 * Your time should be focused on excuting the task. The application will give you location and guide you through your task.
